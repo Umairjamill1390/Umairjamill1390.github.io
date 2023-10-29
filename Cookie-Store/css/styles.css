@@ -105,4 +105,30 @@ main .cookie-type div p{
     font-size:large;
 }
 
-
+/* Styles for About Us Section */
+#about-us-section{
+    background-color: rgb(221, 221, 221);
+}
+#about-us-section h2{
+    margin: 0;
+    margin-top: 30px;
+    padding-top: 2%;
+    font-size: xxx-large;
+    font-weight: lighter;
+    text-align: center;
+}
+#about-us-section img{
+    width: 130px;
+    padding-bottom: 2%;
+    padding-left: 30px;
+    border-radius: 40%;
+}
+.about-us-text{
+    display: flex;
+    justify-content: space-around;
+}
+.about-us-text div{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 20px;
+    padding-left: 40px;
+}
