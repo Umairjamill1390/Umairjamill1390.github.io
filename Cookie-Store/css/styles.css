@@ -105,6 +105,7 @@ main .cookie-type div p{
     font-size:large;
 }
 
+<<<<<<< HEAD
 /* Styles for About Us Section */
 #about-us-section{
     background-color: rgb(221, 221, 221);
@@ -132,3 +133,6 @@ main .cookie-type div p{
     padding-top: 20px;
     padding-left: 40px;
 }
+=======
+
+>>>>>>> feature/readme
