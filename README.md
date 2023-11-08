@@ -8,7 +8,6 @@
 =======
 <h1 align="center"> Hi there, I'm Muhammad Jamil <img src="https://raw.githubusercontent.com/Umairjamill1390/Umairjamill1390/master/wave.gif" width="30px"></h1>
 
-
  
 <h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/umair-jamil-655760208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umairjamill1390 LinkedIn" height="30" width="40" /></a>
 >>>>>>> feature/readme
