@@ -1,16 +1,7 @@
-<<<<<<< HEAD
-<h1 align="center"> Hi there, I'm Muhammad Jamil <img src="https://raw.githubusercontent.com/gabrielaliera/gabrielaliera/master/wave.gif" width="30px"></h1>
-
-🔭 I am software engineer drawn to the pursuit of tackling complex problems and constructing solutions that foster meaningful connections among people.</br>
-
- 
-<h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/gabrielaliera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielaliera LinkedIn" height="30" width="40" /></a>
-=======
 <h1 align="center"> Hi there, I'm Muhammad Jamil <img src="https://raw.githubusercontent.com/Umairjamill1390/Umairjamill1390/master/wave.gif" width="30px"></h1>
 
  
 <h2>Connect with me:</h2> <a href="https://www.linkedin.com/in/umair-jamil-655760208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Umairjamill1390 LinkedIn" height="30" width="40" /></a>
->>>>>>> feature/readme
 
 ## :hammer_and_wrench: Languages
 <div styles="display:flex">
@@ -52,34 +43,6 @@
 ## :chart_with_upwards_trend:Stats 
 
 <p>
-<<<<<<< HEAD
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gabrielaliera&theme=react&show_icons=true&hide_border=false&count_private=true" alt="gabrielalier commit stats"/>
-</p>
-<p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/ username=Umairjamill1390&hide=jupyter%20notebook&theme=react&show_icons=true&hide_border=false&exclude_repo=DataStructures_Algorithms_Class&layout=compact" alt="Umairjamill1390 top languages"/>
-</p>
-<br/>  
-
- ![Profile Views](https://komarev.com/ghpvc/?username=Umairjamill1390)
-
-
-<!--
-
-**gabrielaliera/gabrielaliera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![My GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=gabrielaliera&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/gabrielaliera/github-readme-stats#gh-light-mode-only)
-Here are some ideas to get you started:
-
-- 🔭 I’m a Computer Programming and Computer Science student at Mount San Antonio College
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I lived in Australia and South East Asia from 2016-2020
-👋👋
--->
-=======
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Umairjamill1390&theme=react&show_icons=true&hide_border=false&count_private=true" alt="Umairjamill1390 commit stats"/>
 </p>
 <p>
@@ -88,4 +51,3 @@ Here are some ideas to get you started:
 <br/>  
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Umairjamill1390)
->>>>>>> feature/readme
